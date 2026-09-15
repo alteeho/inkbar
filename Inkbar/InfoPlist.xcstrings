@@ -1,0 +1,23 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "NSScreenCaptureUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inkbar copies the current wallpaper once to paint a black strip at the top. Changing wallpapers later does not ask again."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inkbar один раз копирует текущие обои, чтобы нарисовать чёрную полосу сверху. При смене обоев повторный запрос не появляется."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
